@@ -5,8 +5,7 @@ A extensão de ficheiro VDI tem quatro tipos principais de ficheiros e pode ser 
 # Mas afinal o que é o Virtual Box?
 Este programa simula um computador físico, podendo instalar sistemas operacionais, testa-los, instalar programas. Mais informações em virtualbox.org.
 ____________________________________
-# Hiperligações
-## WebSite:
+# WebSite:
 https://sites.google.com/view/wavelinux
 ____________________________________
 OBRIGADO!
