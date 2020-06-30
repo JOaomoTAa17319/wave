@@ -1,16 +1,2 @@
-# WAVE os
-
-O Wave os é um sistema operacional focado em computadores pessoais e escolares, com o objetivo de ser um sistema leve, versátil, fácil de usar, mas não esquecendo a beleza. 
-Também foi desenvolvido para não precisar instalação no disco do computador, ou seja, o sistema corre na memória do dispositivo usb/cartão sd, não ocupando nem afetando o armazenamento do computador.
-O sistema vem com os utilitários básicos, para uma experiência “clean”, mas podendo instalar mais aplicações a partir da WAVE boutique, que contém as aplicações mais populares e mais utilizadas no mundo Linux.
-Para, ter um fluxo melhor de trabalho, o WAVE os conta com a interface Gnome, muito customizável para deixar o WAVE ao seu gosto.
-Também o utilizador conta com a assistência do WAVE os, no nosso website onde se encontra o separador “Suporte”, onde pode apresentar as suas dúvidas reportar problemas e mandar sugestões de aplicações para colocar na WAVE boutique (as respostas demoram cerca de um dia a ser respondidas).
-## _____________________________________
-# Hiperligações
-## WebSite:
-https://sites.google.com/view/wavelinux
-## Veja a apresentação completa em:
-https://docs.google.com/presentation/d/1uZKZVxchiV0FLIpY3FYFAqyFZFT3oG5kw1e3QkaumGs/edit?usp=sharing
-## ____________________________________
-# OBRIGADO!
-JOão moTA
+# O que são formatos .vdi?
+A extensão de ficheiro VDI tem quatro tipo(s) principais de ficheiro(s) e pode ser aberta com o software Oracle VM VirtualBox (lançado pela Oracle Corporation). No total, existem sete programa(s) informático(s) associado(s) a este formato. Na maioria das vezes, estes são um tipo de formato VirtualBox Virtual Disk Image. Os ficheiros VDI são habitualmente classificados como Disk Image Files. Outros tipos de ficheiros podem ser Uncommon Files ou Data Files.
