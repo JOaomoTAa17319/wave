@@ -4,3 +4,10 @@ A extensão de ficheiro VDI tem quatro tipos principais de ficheiros e pode ser 
 É uma questão de segurança com os consumidores. As versões betas trazem uma série de bugs, podendo afetar o normal comportamento dos dispositivos. Ao usar este formato o utilizador desta versão é "obrigado" a usar o programa de testes de software Virtual Box, não conseguindo instalar definitivamente no seu computador, assim evitando problemas no hardware e nos dispositivos do seu computador físico.
 # Mas afinal o que é o Virtual Box?
 Este programa simula um computador físico, podendo instalar sistemas operacionais, testa-los, instalar programas. Mais informações em virtualbox.org.
+____________________________________
+# Hiperligações
+## WebSite:
+https://sites.google.com/view/wavelinux
+____________________________________
+OBRIGADO!
+JOão moTA
