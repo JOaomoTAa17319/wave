@@ -9,7 +9,7 @@ Também o utilizador conta com a assistência do WAVE os, no nosso website onde 
 ![alt text](https://github.com/JOaomoTAa17319/wave/blob/master/67338893.png)
 # Hiperligações
 ### WebSite:
-https://sites.google.com/view/wavelinux
+https://bit.ly/waveos
 ### Veja a apresentação completa em:
 https://docs.google.com/presentation/d/1uZKZVxchiV0FLIpY3FYFAqyFZFT3oG5kw1e3QkaumGs/edit?usp=sharing
 # OBRIGADO!
