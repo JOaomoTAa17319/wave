@@ -6,7 +6,7 @@ O sistema vem com os utilitários básicos, para uma experiência “clean”, m
 Para, ter um fluxo melhor de trabalho, o WAVE os conta com a interface Gnome, muito customizável para deixar o WAVE ao seu gosto.
 Também o utilizador conta com a assistência do WAVE os, no nosso website onde se encontra o separador “Suporte”, onde pode apresentar as suas dúvidas reportar problemas e mandar sugestões de aplicações para colocar na WAVE boutique (as respostas demoram cerca de um dia a ser respondidas).
 
-![alt text(https://github.com/JOaomoTAa17319/wave/blob/master/67338893.png)
+![alt text](https://github.com/JOaomoTAa17319/wave/blob/master/67338893.png)
 # Hiperligações
 ### WebSite:
 https://sites.google.com/view/wavelinux
